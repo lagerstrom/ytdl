@@ -1,4 +1,4 @@
-module github.com/rylio/ytdl
+module github.com/lagerstrom/ytdl
 
 go 1.13
 
